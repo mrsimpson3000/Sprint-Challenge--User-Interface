@@ -312,9 +312,18 @@ footer nav a {
 .learn-more {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
+    border: 2px solid red;
 }
 
 .learn-group {
-    padding: 3%;
+    margin: 3%;
+    box-sizing: border-box;
     border-bottom: 1px black dashed;
+    width: 20%;
+    border: 2px solid blue;
+}
+
+.together {
+    padding: 5% 3%;
 }
