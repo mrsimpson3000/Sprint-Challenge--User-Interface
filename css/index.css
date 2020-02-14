@@ -301,3 +301,20 @@ footer nav a {
 .box10 {
     background-color: dodgerblue;
 }
+
+.about {
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+    border-bottom: 1px black dashed;
+}
+
+.learn-more {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.learn-group {
+    padding: 3%;
+    border-bottom: 1px black dashed;
+}
